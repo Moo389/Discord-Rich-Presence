@@ -1,0 +1,10 @@
+{ 
+    "Application": "Client ID here",
+    "State": "text",
+    "largeimg": "image name",
+    "buttontext": "text",
+    "large_text": "text",
+    "button_url": "url",
+    "smallimg": "image name",
+    "smalltext": "text"
+}
